@@ -1,5 +1,3 @@
-#loxocyci@decabg.eu
-#ciryryno@ema-sofia.eu
 import requests
 import json
 import os
