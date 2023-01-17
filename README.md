@@ -1,9 +1,20 @@
 How to install s2pyStats!
 
-To install, enter this in your shell
-pip install s2pyStats
-OR do this in your python code
-import os
-os.system('pip install s2pyStats')
+This is a module in python that gets stats of users on Scratch!
 
-<p>Once you have done that, do import s2pyStats. If you get the "s2pyStats - (version)" you've got it! Now, just do "s2pyStats()" for it to work!</p>
+To install, use this command
+```
+pip install s2pyStats
+```
+
+Then, following that to make it work. Run this code.
+```
+from s2pyStats import s2pyStats as main
+```
+Then run
+```
+main()
+```
+You will get a prompt saying the version number and then an input field.
+
+If it's not working, please contact me on Scratch!
